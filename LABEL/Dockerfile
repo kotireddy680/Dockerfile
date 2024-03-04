@@ -1,3 +1,3 @@
 FROM almalinux:8
-LaBEL "Kotireddy" \
-      "Sridevi" \
+LaBEL LEARNING="Kotireddy" \
+      LEARNING2="Sridevi" 
